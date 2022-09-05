@@ -1,3 +1,5 @@
+# Creating script that prints both Triangle and Square in pictures
+
 def main():
     # To print a triangle
     print("   *")
@@ -15,3 +17,5 @@ def main():
     print("****")
     print("****")
 
+if __name__=='__main__':
+    main()
